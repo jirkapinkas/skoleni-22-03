@@ -1,0 +1,3 @@
+Komentovani / odkomentovani: CTRL + /
+Navigace ke zdroji: CTRL + Click
+IntelliSense: CTRL + MEZERA
