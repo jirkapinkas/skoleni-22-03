@@ -1,3 +1,8 @@
 Komentovani / odkomentovani: CTRL + /
 Navigace ke zdroji: CTRL + Click
 IntelliSense: CTRL + MEZERA
+
+Debug:
+
+F6 (Step over: Skoci na dalsi radek)
+F8 (Resume: Pokracuje do dalsiho breakpointu nebo na konec testu)
